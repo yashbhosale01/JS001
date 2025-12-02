@@ -3,3 +3,5 @@ Employee Model Class
 Employee DAO Interface
 Employee Service Interface 
 Employee DAOImpl class
+Add JPA Repositories
+Add Dependancies of oracal
