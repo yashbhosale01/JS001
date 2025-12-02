@@ -5,3 +5,4 @@ Employee Service Interface
 Employee DAOImpl class
 Add JPA Repositories
 Add Dependancies of oracal
+Add another dependencies
